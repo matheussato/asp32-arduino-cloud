@@ -2,6 +2,9 @@
 
 Este projeto de código aberto é voltado para monitoramento de temperatura e umidade de um dispositivo IoT usando um sensor DHT11. Ele se comunica com a plataforma Arduino IoT Cloud para enviar e receber dados.
 
+## Link Youtube 💻:
+[Youtube](https://www.youtube.com/watch?v=2YPSr-_YE4o&t=58s&ab_channel=mSato)
+
 ## Bibliotecas Necessárias :books:
 
 Para este projeto, as seguintes bibliotecas são necessárias:
